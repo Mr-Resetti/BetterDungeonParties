@@ -1,0 +1,2 @@
+# BetterDungeonParties
+help
